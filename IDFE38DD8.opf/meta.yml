@@ -1,0 +1,593 @@
+id: IDFE38DD8
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:46:12.700216'
+last_modified: '2022-06-15T20:46:12.700227'
+parser: null
+source_metadata:
+  title: Aspiration Prayers
+  language: en
+  description: 'A series of prayers of aspiration (Skt. praṇidhāna; Tib. smon lam)
+    and works from related genres, including prayers for the spread of the teachings
+    (bstan rgyas smon lam):'
+  volume:
+    fDC21:
+      title: 'Fostering Recollection to Dispel the Torment of Deluded Perception:
+        An Aspiration for the Bardos'
+      base_file: fDC21.txt
+      order: 1
+      parent: Bardos
+    f3028:
+      title: 'The Single Oceanic Wisdom: An Aspiration to Recognise the Bardos'
+      base_file: f3028.txt
+      order: 2
+      parent: Bardos
+    fA60C:
+      title: Maitreya's Aspiration
+      base_file: fA60C.txt
+      order: 3
+      parent: Bodhisattva Aspirations
+    fD745:
+      title: 'The Blissful Path to the Ocean of Bodhichitta: A Brief Prayer of Aspiration
+        for Mind Training'
+      base_file: fD745.txt
+      order: 4
+      parent: Bodhisattva Aspirations
+    f9472:
+      title: 'The Excellent Path to Enlightenment: An Aspiration Towards the Mahāyāna
+        Mind Training'
+      base_file: f9472.txt
+      order: 5
+      parent: Bodhisattva Aspirations
+    f296A:
+      title: 'The Heart of the Mahāyāna Path: A Bodhisattva’s Prayer of Aspiration'
+      base_file: f296A.txt
+      order: 6
+      parent: Bodhisattva Aspirations
+    f3479:
+      title: 'The Finest Jewel: An Aspiration Prayer of Mahāyāna Mind Training'
+      base_file: f3479.txt
+      order: 7
+      parent: Bodhisattva Aspirations
+    f3004:
+      title: Prayer of Aspiration Incorporating the Eight Thoughts of Great Beings
+        Who Follow the Way of the Mahāyāna
+      base_file: f3004.txt
+      order: 8
+      parent: Bodhisattva Aspirations
+    f0D67:
+      title: Bodhicitta Aspiration
+      base_file: f0D67.txt
+      order: 9
+      parent: Bodhisattva Aspirations
+    fAD85:
+      title: Aspiration to Generate Bodhicitta, Utterly Pure and Supreme
+      base_file: fAD85.txt
+      order: 10
+      parent: Bodhisattva Aspirations
+    f48E0:
+      title: The Way to Explain the King of All Aspiration Prayers, the Secret Vajra
+        Knot
+      base_file: f48E0.txt
+      order: 11
+      parent: Commentaries
+    fBB88:
+      title: A Prayer of Aspiration for the Copper-Coloured Mountain of Glory
+      base_file: fBB88.txt
+      order: 12
+      parent: Copper-Coloured Mountain
+    fD277:
+      title: Threefold Aspiration for Rebirth in Zangdok Palri
+      base_file: fD277.txt
+      order: 13
+      parent: Copper-Coloured Mountain
+    f8422:
+      title: 'A Joyful Chariot for the Fortunate: An Aspiration to Travel to the Copper-Coloured
+        Mountain of Glory'
+      base_file: f8422.txt
+      order: 14
+      parent: Copper-Coloured Mountain
+    f38A1:
+      title: A Prayer of Aspiration for the Copper-Coloured Mountain of Glory
+      base_file: f38A1.txt
+      order: 15
+      parent: Copper-Coloured Mountain
+    f1F0B:
+      title: A Prayer of Aspiration for the Mountain of Glory
+      base_file: f1F0B.txt
+      order: 16
+      parent: Copper-Coloured Mountain
+    fD1AD:
+      title: Secret Path to the Mountain of Glory—A Prayer of Aspiration for the Copper-Coloured
+        Mountain of Glory
+      base_file: fD1AD.txt
+      order: 17
+      parent: Copper-Coloured Mountain
+    f24A9:
+      title: 'The Secret Path of Wisdom: A Prayer of Aspiration for the Mountain of
+        Glory'
+      base_file: f24A9.txt
+      order: 18
+      parent: Copper-Coloured Mountain
+    fEADE:
+      title: 'The Song of Devotion: Verses of Aspiration for the Fulfilment of the
+        Enlightened Vision of Khenchen Jigme Phuntsok, the Reincarnation of Terton
+        Lerab Lingpa'
+      base_file: fEADE.txt
+      order: 19
+      parent: Devotion
+    f54E4:
+      title: An Aspiration
+      base_file: f54E4.txt
+      order: 20
+      parent: Dzogchen
+    fEE37:
+      title: Dzogchen Aspiration Prayer
+      base_file: fEE37.txt
+      order: 21
+      parent: Dzogchen
+    f8644:
+      title: The Prayer of the Ground, Path & Fruition – From the Heart-Essence of
+        the Vast Expanse
+      base_file: f8644.txt
+      order: 22
+      parent: Dzogchen
+    f7750:
+      title: 'Self-Radiance of Indestructible Awareness and Emptiness: An Aspiration
+        towards the Meaning of the Indivisible Ground, Path and Fruition of the Great
+        Perfection Mañjuśrī'
+      base_file: f7750.txt
+      order: 23
+      parent: Dzogchen
+    f2B32:
+      title: The Powerful Prayer of Aspiration from the Tantra of the Great Perfection
+        that Reveals the All-Penetrating Wisdom Mind of Samantabhadra (Kunzang Mönlam)
+      base_file: f2B32.txt
+      order: 24
+      parent: Dzogchen
+    fADF4:
+      title: Prayer of the View, Meditation and Conduct
+      base_file: fADF4.txt
+      order: 25
+      parent: Dzogchen
+    f6895:
+      title: Profound Prayer of Aspiration
+      base_file: f6895.txt
+      order: 26
+      parent: Dzogchen
+    f2D28:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      base_file: f2D28.txt
+      order: 27
+      parent: General
+    f27E3:
+      title: The Aspiration of the Vajradhātu Maṇḍala
+      base_file: f27E3.txt
+      order: 28
+      parent: General
+    fE3DC:
+      title: 'The Vidyādharas'' Words of Truth: An Aspiration Connected with the Stages
+        of the Path of the Three Roots, from the Heart Essence of the Vast Expanse'
+      base_file: fE3DC.txt
+      order: 29
+      parent: General
+    fCCC9:
+      title: 'Wisdom''s Melody: An Aspiration to Realize Madhyamaka, Mahāmudrā, and
+        Mahā Ati'
+      base_file: fCCC9.txt
+      order: 30
+      parent: General
+    f8D86:
+      title: 'The Truthful Words of a Sage: An Aspiration Prayer from the Exceedingly
+        Secret, Enlightened Heart-Essence of the Ḍākinī'
+      base_file: f8D86.txt
+      order: 31
+      parent: General
+    f74D2:
+      title: Aspirations in Accordance with the Dharma
+      base_file: f74D2.txt
+      order: 32
+      parent: General
+    fA948:
+      title: Aspiration at the Moment of Death
+      base_file: fA948.txt
+      order: 33
+      parent: General
+    f971D:
+      title: Aspiration Prayer of the Ultimate Definitive Meaning
+      base_file: f971D.txt
+      order: 34
+      parent: General
+    fD4DE:
+      title: An Aspiration Prayer
+      base_file: fD4DE.txt
+      order: 35
+      parent: General
+    fDF11:
+      title: Aspiration Prayer
+      base_file: fDF11.txt
+      order: 36
+      parent: General
+    fF199:
+      title: Aspiration for All Lives to Come
+      base_file: fF199.txt
+      order: 37
+      parent: General
+    f2890:
+      title: An Aspiration Prayer
+      base_file: f2890.txt
+      order: 38
+      parent: General
+    f2854:
+      title: Aspiration Written in Sadness During the Water Snake Year
+      base_file: f2854.txt
+      order: 39
+      parent: General
+    fCCE1:
+      title: Aspiration Written on the Occasion of Princess Sangdé’s Passing in Sikkim
+      base_file: fCCE1.txt
+      order: 40
+      parent: General
+    f6226:
+      title: Aspiration to Accomplish Every Aim
+      base_file: f6226.txt
+      order: 41
+      parent: General
+    fBBB7:
+      title: Aspiration to Be Reborn at the Vajra Seat (Bodhgayā), Akaniṣṭha on Earth
+      base_file: fBBB7.txt
+      order: 42
+      parent: General
+    f9772:
+      title: 'Music to Delight the Victorious Ones and Their Heirs: A Mahāyāna Aspiration'
+      base_file: f9772.txt
+      order: 43
+      parent: General
+    f90D6:
+      title: Prayer of Aspiration
+      base_file: f90D6.txt
+      order: 44
+      parent: General
+    f4F77:
+      title: 'The Jewelled Rosary: An Aspiration Toward Longed-for Aims'
+      base_file: f4F77.txt
+      order: 45
+      parent: General
+    fC3BF:
+      title: 'The Swift Fulfilment of Wishes: A Prayer of Aspiration'
+      base_file: fC3BF.txt
+      order: 46
+      parent: General
+    fBDA0:
+      title: An Aspiration for the Final Age
+      base_file: fBDA0.txt
+      order: 47
+      parent: General
+    f03AB:
+      title: 'Entering the City of Omniscience: An Aspiration Prayer for Actualizing
+        Words of Truth'
+      base_file: f03AB.txt
+      order: 48
+      parent: General
+    fF458:
+      title: Aspiration for Future Lives
+      base_file: fF458.txt
+      order: 49
+      parent: General
+    f8477:
+      title: Aspiration to be Cared For in Every Lifetime
+      base_file: f8477.txt
+      order: 50
+      parent: General
+    f7D83:
+      title: 'The Sun of Samantabhadra’s Realm: The Quintessence of Oceanic Prayers
+        of Aspiration'
+      base_file: f7D83.txt
+      order: 51
+      parent: General
+    f00F3:
+      title: An Aspiration to Travel to the Hidden Land of Pemokö
+      base_file: f00F3.txt
+      order: 52
+      parent: General
+    fFF4E:
+      title: 'The Magical Lasso: A Prayer of Aspiration to Accomplish Khecara'
+      base_file: fFF4E.txt
+      order: 53
+      parent: General
+    f7B9D:
+      title: The Secret Vajra Knot
+      base_file: f7B9D.txt
+      order: 54
+      parent: General
+    fACF9:
+      title: Aspiration for the Four Activities
+      base_file: fACF9.txt
+      order: 55
+      parent: General
+    f85AA:
+      title: The Source of Beings' Happiness
+      base_file: f85AA.txt
+      order: 56
+      parent: General
+    fD691:
+      title: The Thirty Aspirations
+      base_file: fD691.txt
+      order: 57
+      parent: General
+    fAAB2:
+      title: Aspiration Prayer
+      base_file: fAAB2.txt
+      order: 58
+      parent: General
+    f478E:
+      title: Yeshe Tsogyal's Prayer
+      base_file: f478E.txt
+      order: 59
+      parent: General
+    f233C:
+      title: Verses of Aspiration to Recite While Prostrating
+      base_file: f233C.txt
+      order: 60
+      parent: General
+    f891A:
+      title: A Prayer of Aspiration
+      base_file: f891A.txt
+      order: 61
+      parent: General
+    f3C41:
+      title: Aspiration Prayer
+      base_file: f3C41.txt
+      order: 62
+      parent: General
+    f4B45:
+      title: Aspiration for the Stages of the Path
+      base_file: f4B45.txt
+      order: 63
+      parent: Lamrim
+    fBA33:
+      title: The Indestructible Vajra Garland, An Aspiration Prayer for the Lives
+        of the Supreme Holders of the Non-Sectarian Teachings
+      base_file: fBA33.txt
+      order: 64
+      parent: Longevity
+    fD21D:
+      title: Concise Middle Way Aspiration
+      base_file: fD21D.txt
+      order: 65
+      parent: Madhyamaka
+    f8C79:
+      title: Middle Way Aspiration
+      base_file: f8C79.txt
+      order: 66
+      parent: Madhyamaka
+    f6337:
+      title: Aspiration of the Mahāmudrā of Definitive Meaning
+      base_file: f6337.txt
+      order: 67
+      parent: Mahāmudrā
+    fC341:
+      title: 'The Rishi''s Maledictory Incantation: An Invocation of Wisdom Mind and
+        Sacred Pledges for Reversing the Disturbances and Agitations of Dark Times
+        In the Form of an Aspiration Prayer'
+      base_file: fC341.txt
+      order: 68
+      parent: Peace and Welfare
+    fCEAB:
+      title: Aspiration for the Country’s Welfare
+      base_file: fCEAB.txt
+      order: 69
+      parent: Peace and Welfare
+    f3AA1:
+      title: The Prayer of the Words of Truth
+      base_file: f3AA1.txt
+      order: 70
+      parent: Peace and Welfare
+    fA836:
+      title: 'The Resounding Drum of Truth: A Prayer and Aspiration'
+      base_file: fA836.txt
+      order: 71
+      parent: Peace and Welfare
+    fB22B:
+      title: Prayer for Peace and Stability in Tibet
+      base_file: fB22B.txt
+      order: 72
+      parent: Peace and Welfare
+    f5E73:
+      title: 'Burgeoning Joy and Happiness: An Aspiration for the Welfare of the Great
+        Hidden Land of Sikkim'
+      base_file: f5E73.txt
+      order: 73
+      parent: Peace and Welfare
+    fCB74:
+      title: 'Declaration of the Power of Truth: A Prayer to Overcome Invading Forces'
+      base_file: fCB74.txt
+      order: 74
+      parent: Peace and Welfare
+    fA45D:
+      title: 'The Fulfilment of All Aims and Wishes: An Aspiration to Request the
+        Safeguarding of Happiness in Tibet'
+      base_file: fA45D.txt
+      order: 75
+      parent: Peace and Welfare
+    f2B27:
+      title: Prayer for Dispelling Famine
+      base_file: f2B27.txt
+      order: 76
+      parent: Peace and Welfare
+    fA928:
+      title: Prayer of Truthful Words to Pacify the Fear of War
+      base_file: fA928.txt
+      order: 77
+      parent: Peace and Welfare
+    fCB02:
+      title: 'The Verses that Saved Sakya from Sickness: A Prayer for Pacifying the
+        Fear of Disease'
+      base_file: fCB02.txt
+      order: 78
+      parent: Peace and Welfare
+    fE4EF:
+      title: 'The Jewelled Garland: An Aspiration for the Spread of the Teachings
+        of the Omniscient Father and Son, Masters of the Teachings of the Ancient
+        Translations'
+      base_file: fE4EF.txt
+      order: 79
+      parent: Prayers for the Spread of the Teachings
+    fFA68:
+      title: Prayer for the Future of the Dharma
+      base_file: fFA68.txt
+      order: 80
+      parent: Prayers for the Spread of the Teachings
+    f9986:
+      title: Aspiration Prayer for the Flourishing of the Jonang Teachings
+      base_file: f9986.txt
+      order: 81
+      parent: Prayers for the Spread of the Teachings
+    fD444:
+      title: 'The Sage''s Harmonious Song of Truth: A Prayer for the Flourishing of
+        the Non-Sectarian Teachings of the Buddha'
+      base_file: fD444.txt
+      order: 82
+      parent: Prayers for the Spread of the Teachings
+    fAA98:
+      title: 'All-Pervading Auspiciousness: An Aspiration for the Spread of the Teachings
+        of the Eight Great Chariots of the Practice Lineage'
+      base_file: fAA98.txt
+      order: 83
+      parent: Prayers for the Spread of the Teachings
+    f224F:
+      title: Aspiration for the Spread of the Guhyagarbha Teachings
+      base_file: f224F.txt
+      order: 84
+      parent: Prayers for the Spread of the Teachings
+    fC4CF:
+      title: Aspiration for the Spread of the Teachings
+      base_file: fC4CF.txt
+      order: 85
+      parent: Prayers for the Spread of the Teachings
+    fF772:
+      title: Aspiration on the Occasion of Bestowing the Name Orgyen Tekchok Ngesang
+        Tupten Pelgye Ling on the New Temple at Takmo Monastery
+      base_file: fF772.txt
+      order: 86
+      parent: Prayers for the Spread of the Teachings
+    fC022:
+      title: 'Blazing Splendour of Good Fortune: A Prayer for the Spread of the Teachings
+        of the Katok Tradition'
+      base_file: fC022.txt
+      order: 87
+      parent: Prayers for the Spread of the Teachings
+    fEE96:
+      title: 'Clouds to Delight Amitābha, Melody of the Realm of Great Bliss: Aspiration
+        and Auspicious Verses for the Spread of the Teachings of the Lake-Born Vajra
+        of Oḍḍiyāna, Second Teacher of this World'
+      base_file: fEE96.txt
+      order: 88
+      parent: Prayers for the Spread of the Teachings
+    f6DCB:
+      title: 'Introduction to the Buddha’s Words: A Praise and Aspiration Related
+        to the Words of the Victorious One'
+      base_file: f6DCB.txt
+      order: 89
+      parent: Prayers for the Spread of the Teachings
+    f751B:
+      title: 'The Sage''s Powerful Words of Truth: A Prayer for the Spread of the
+        Omniscient Buddha''s Teachings'
+      base_file: f751B.txt
+      order: 90
+      parent: Prayers for the Spread of the Teachings
+    f177A:
+      title: 'Words to Delight the Lake-Born One: A Prayer for the Spread of the Vajrayāna
+        Teachings of the Ancient Translations'
+      base_file: f177A.txt
+      order: 91
+      parent: Prayers for the Spread of the Teachings
+    f34BE:
+      title: Aspiration for the Spread of the Khyentse Tradition
+      base_file: f34BE.txt
+      order: 92
+      parent: Prayers for the Spread of the Teachings
+    fA125:
+      title: The Last Testament of Katok Dampa Deshek
+      base_file: fA125.txt
+      order: 93
+      parent: Prayers for the Spread of the Teachings
+    fA957:
+      title: Prayer of Aspiration for the Buddhist Teachings to Flourish in Taiwan
+      base_file: fA957.txt
+      order: 94
+      parent: Prayers for the Spread of the Teachings
+    fF8AA:
+      title: Aspiration for the Spread of the Teachings of the Eight Chariots of the
+        Practice Lineage
+      base_file: fF8AA.txt
+      order: 95
+      parent: Prayers for the Spread of the Teachings
+    f2B24:
+      title: Clouds of Offerings to Delight the Victorious Ones – An Aspiration Prayer
+        for the Spread of the Teachings of the Lord of Siddhas, Dzogchen Rinpoche
+      base_file: f2B24.txt
+      order: 96
+      parent: Prayers for the Spread of the Teachings
+    fB532:
+      title: 'Words of Truth: An Aspiration for the Spread of the Noble Gendenpa Tradition'
+      base_file: fB532.txt
+      order: 97
+      parent: Prayers for the Spread of the Teachings
+    f249D:
+      title: 'Words to Delight the Sovereigns of the Dharma: A Prayer of Aspiration
+        for the Flourishing and Spread of the Ancient Translation Tradition'
+      base_file: f249D.txt
+      order: 98
+      parent: Prayers for the Spread of the Teachings
+    f8AFA:
+      title: Prayer for the Flourishing of the Teachings
+      base_file: f8AFA.txt
+      order: 99
+      parent: Prayers for the Spread of the Teachings
+    fA80E:
+      title: A Prayer for the Spread of Kyabje Dilgo Khyentse Rinpoche’s Termas
+      base_file: fA80E.txt
+      order: 100
+      parent: Prayers for the Spread of the Teachings
+    fA144:
+      title: Prayer for the Flourishing of the Dzogchen Teachings of Sogyal Rinpoche,
+        the incarnation of Lerab Lingpa
+      base_file: fA144.txt
+      order: 101
+      parent: Prayers for the Spread of the Teachings
+    f8D68:
+      title: A Brief Method for Reciting Samantabhadra's Prayer of Good Actions
+      base_file: f8D68.txt
+      order: 102
+      parent: Recitation Guides
+    f799F:
+      title: Aspiration Prayer from Tārā Sādhana
+      base_file: f799F.txt
+      order: 103
+      parent: Tārā
+    f84D6:
+      title: 'Burgeoning Benefit and Happiness: An Aspiration to be Reborn in the
+        Land of Turquoise Leaves'
+      base_file: f84D6.txt
+      order: 104
+      parent: Tārā
+    fB3C6:
+      title: A Prayer for Translators
+      base_file: fB3C6.txt
+      order: 105
+      parent: Translation
+    f9B86:
+      title: An Aspirational Prayer to Behold the Beautiful Face of Khecharī
+      base_file: f9B86.txt
+      order: 106
+      parent: Vajrayoginī
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
